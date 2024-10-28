@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bottoo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Finished Events</string>
+    <string name="title_notifications">Upcoming</string>
+    <string name="title_search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="event_description">Event Description</string>
+    <string name="event_time">Event Time</string>
+    <string name="event_owner">Event Owner</string>
+    <string name="event_name">Event Name</string>
+    <string name="event_logo">Event Logo</string>
+    <string name="Input_Keywords">Input Keywords\n</string>
+    <string name="wwiwi">Search</string>
+    <string name="available_quota">Available Quota</string>
+    <string name="go_to_web">Go to Web</string>
+    <string name="favorite">Favorite</string>
+    <string name="togglefavorite">ToggleFavorite</string>
+    <string name="toggle">ToggleFavorite</string>
+</resources>
